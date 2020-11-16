@@ -2,8 +2,11 @@
 # sound: "Packet::SoundName"
 
 break-sound: "LevelSoundEventPacket::SOUND_EXPLODE"
+
 join-sound: "LevelSoundEventPacket::EVENT_SOUND_TOTEM"
+
 hit-sound: "LevelEventPacket::SOUND_DROP_SLOT"
+
 death-sound: "LevelEventPacket::SOUND_THUNDER"
 
 # Choose Either Level Sound or Minecraft Sounds
